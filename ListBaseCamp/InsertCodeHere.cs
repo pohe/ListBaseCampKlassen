@@ -47,7 +47,7 @@ namespace ListBaseCamp
             // Console.WriteLine($"Case 3: Element with index 3 is {listOfInt[3]}");
 
             listOfInt.RemoveAt(0);
-
+            
             // Case 4
             // Console.WriteLine($"Case 4: Element with index 3 is {listOfInt[3]}");
 
